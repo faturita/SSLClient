@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WCFClient">
+</Property><Property Name="Solution File" Value="D:\work\WCF client\WCFClient\WCFClient.sln">
+</Property><Property Name="User Options File" Value="D:\work\WCF client\WCFClient\WCFClient.suo">
+</Property><Property Name="Date" Value="martes, 20 de diciembre de 2011">
+</Property><Property Name="Time" Value="15:33 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WCFClient.sln" Description="File successfully backed up as D:\work\WCF client\WCFClient\Backup\WCFClient.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WCFClient.suo" Description="File successfully backed up as D:\work\WCF client\WCFClient\Backup\WCFClient.suo">
+</Event><Event ErrorLevel="0" Project="WCFClient" Source="WCFClient\WCFClient.csproj" Description="Project file successfully backed up as D:\work\WCF client\WCFClient\Backup\WCFClient\WCFClient.csproj">
+</Event><Event ErrorLevel="0" Project="WCFClient" Source="WCFClient\AuthenticateClient.cs" Description="File successfully backed up as D:\work\WCF client\WCFClient\Backup\WCFClient\AuthenticateClient.cs">
+</Event><Event ErrorLevel="0" Project="WCFClient" Source="WCFClient\ContextInformationInspector.cs" Description="File successfully backed up as D:\work\WCF client\WCFClient\Backup\WCFClient\ContextInformationInspector.cs">
+</Event><Event ErrorLevel="0" Project="WCFClient" Source="WCFClient\PolicyServiceClient.cs" Description="File successfully backed up as D:\work\WCF client\WCFClient\Backup\WCFClient\PolicyServiceClient.cs">
+</Event><Event ErrorLevel="0" Project="WCFClient" Source="WCFClient\Program.cs" Description="File successfully backed up as D:\work\WCF client\WCFClient\Backup\WCFClient\Program.cs">
+</Event><Event ErrorLevel="0" Project="WCFClient" Source="WCFClient\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\work\WCF client\WCFClient\Backup\WCFClient\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WCFClient" Source="WCFClient\ServiceContext.cs" Description="File successfully backed up as D:\work\WCF client\WCFClient\Backup\WCFClient\ServiceContext.cs">
+</Event><Event ErrorLevel="0" Project="WCFClient" Source="WCFClient\TokenManager.cs" Description="File successfully backed up as D:\work\WCF client\WCFClient\Backup\WCFClient\TokenManager.cs">
+</Event><Event ErrorLevel="0" Project="WCFClient" Source="WCFClient\App.config" Description="File successfully backed up as D:\work\WCF client\WCFClient\Backup\WCFClient\App.config">
+</Event><Event ErrorLevel="0" Project="WCFClient" Source="WCFClient\WCFClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WCFClient" Source="WCFClient\WCFClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WCFClient.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WCFClient.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WCFClient" Source="WCFClient\WCFClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

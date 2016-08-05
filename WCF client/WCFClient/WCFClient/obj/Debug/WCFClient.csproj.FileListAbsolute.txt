@@ -1,0 +1,12 @@
+C:\Users\fmosca\Desktop\WCF client\WCFClient\WCFClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fmosca\Desktop\WCF client\WCFClient\WCFClient\bin\Debug\WCFClient.exe.config
+C:\Users\fmosca\Desktop\WCF client\WCFClient\WCFClient\bin\Debug\WCFClient.exe
+C:\Users\fmosca\Desktop\WCF client\WCFClient\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\fmosca\Desktop\WCF client\WCFClient\WCFClient\obj\Debug\WCFClient.exe
+C:\Users\fmosca\Desktop\WCF client\WCFClient\WCFClient\obj\Debug\WCFClient.pdb
+D:\work\WCF client\WCFClient\WCFClient\bin\Debug\WCFClient.exe.config
+D:\work\WCF client\WCFClient\WCFClient\obj\Debug\WCFClient.exe
+D:\work\WCF client\WCFClient\WCFClient\obj\Debug\WCFClient.pdb
+D:\work\WCF client\WCFClient\WCFClient\bin\Debug\WCFClient.exe
+D:\work\WCF client\WCFClient\WCFClient\bin\Debug\WCFClient.pdb
+D:\work\WCF client\WCFClient\WCFClient\obj\Debug\ResolveAssemblyReference.cache

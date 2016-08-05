@@ -1,0 +1,5 @@
+D:\ssLServer\SSLClient\bin\Debug\SSLClient.exe
+D:\ssLServer\SSLClient\bin\Debug\SSLClient.pdb
+D:\ssLServer\SSLClient\obj\Debug\ResolveAssemblyReference.cache
+D:\ssLServer\SSLClient\obj\Debug\SSLClient.exe
+D:\ssLServer\SSLClient\obj\Debug\SSLClient.pdb
